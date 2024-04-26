@@ -75,7 +75,8 @@
 
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav ml-auto">
-                        <a href="AskForDonnation.aspx" class="nav-item nav-link">كن صديقا لاحسان</a>
+                        <a href="beAfriend.aspx" class="nav-item nav-link">  طلب شراكة</a>
+                        <a href="AskForDonnation.aspx" class="nav-item nav-link">  طلب تبرع</a>
                         <a href="contact.html" class="nav-item nav-link">كن صديقا لاحسان</a>
                         <a href="about.html" class="nav-item nav-link">عن المنصة</a>
                         <a href="causes.html" class="nav-item nav-link">الحالات</a>
@@ -90,7 +91,7 @@
                                 <a href="donate.html" class="dropdown-item">تبرع الان</a>
                                 <a href="volunteer.html" class="dropdown-item">كن متطوع</a>
                                 <a href="AskForDonnation.aspx" class="nav-item nav-link">طلب تبرع</a>
-                                <a href="partecipateRequest.aspx" class="nav-item nav-link">طلب شراكة</a>
+                                <a href="beAfriend.aspx" class="nav-item nav-link">طلب شراكة</a>
                             </div>
                         </div>
                          <a href="index.html" class="nav-item nav-link active">الرئيسية</a>
